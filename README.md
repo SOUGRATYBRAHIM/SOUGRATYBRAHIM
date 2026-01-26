@@ -4,7 +4,7 @@
 
 ---
 <h1 align="center">Welcome to my Github profile !</h1>
----
+
 
 ### ⚡ About Me
 I am a **Full-Stack Developer** passionate about building digital experiences that blend aesthetic design with robust architecture. My goal is to transform complex problems into elegant, scalable solutions. 
@@ -35,15 +35,6 @@ I am a **Full-Stack Developer** passionate about building digital experiences th
 | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) | | |
 
 ---
-
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SOUGRATYBRAHIM&show_icons=true&theme=visual_studio_code&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUGRATYBRAHIM&layout=compact&theme=visual_studio_code" />
-</p>
-
----
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />

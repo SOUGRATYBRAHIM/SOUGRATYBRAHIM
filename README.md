@@ -16,14 +16,6 @@ I am a **Full-Stack Developer** passionate about building digital experiences th
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brahim-sougraty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:brahimsougraty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-</p>
-
----
-
 ### 🛠 Tech Stack
 
 | Frontend | Backend | Tools & DevOps |
@@ -33,6 +25,14 @@ I am a **Full-Stack Developer** passionate about building digital experiences th
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
 | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) | | |
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brahim-sougraty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:brahimsougraty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 

@@ -10,7 +10,7 @@
 I am a **Full-Stack Developer** passionate about building digital experiences that blend aesthetic design with robust architecture. My goal is to transform complex problems into elegant, scalable solutions. 
 
 - 💻 Full-stack web developer | **Building Web Experiences**
-- 🌱 Currently improving my backend & system design skills
+- 📱 Currently diving into mobile app development
 - 🧠 I love building real-world projects
 - ⚡ Fun fact: **I built the liquid text animation above from scratch.**
 

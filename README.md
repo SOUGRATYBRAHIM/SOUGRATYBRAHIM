@@ -24,7 +24,7 @@ I am a **Full-Stack Developer** passionate about building digital experiences th
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) | | |
+| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |  ![Express](https://img.shields.io/badge/-Express-47A248?logo=express&logoColor=white)  | |
 
 ---
 
